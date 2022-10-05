@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trainee Software Developer with Fidelity Investments<br>🤝 Send me an [email](mailto:mramjon@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/andrewmoneill/)!
+🔭 Trainee Software Developer with Fidelity Investments<br>🤝 Send me an [email](mailto:mramjon@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/andrewmoneill/)!
 
 
 ## 🌐 Socials:
