@@ -1,6 +1,6 @@
 # 💫 About Me:
-📖 Interested in game design and full-stack development.
-🔭 Trainee Software Developer with Fidelity Investments<br>
+📖 Interested in game design and full-stack development.<br>
+🔭 Trainee Software Developer with Fidelity Investments.<br>
 🤝 Send me an [email](mailto:mramjon@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/andrewmoneill/)!
 
 
