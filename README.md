@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Andrew Malcolm</h1>
 
-<p align="center">I'm an Irish full-stack developer working with Fidelity Investments. </p>
+<p align="center">I'm a full-stack developer working with Fidelity Investments. </p>
 
-<p align="center">I'm interested in Game Development and User Focused Design. </p>
+<p align="center">In my repos you will see a variety of projects I have worked on. </p>
 
-<p align="center">In my repos you will see a variety of personal projects I have worked on and contributed to. </p>
-
-<p align="center">If you'd like to contact me or collaborate on something, feel free to send me an <a href="mailto:mramjon@gmail.com">email</a> or add me on <a href="https://www.linkedin.com/in/andrewmoneill/">LinkedIn</a>!</p>
+<p align="center">If you'd like to contact me, feel free to send me an <a href="mailto:mramjon@gmail.com">email</a> or add me on <a href="https://www.linkedin.com/in/andrewmoneill/">LinkedIn</a>!</p>
 
 
 ## 💻 Tech Stack:
