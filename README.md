@@ -10,12 +10,12 @@ If you'd like to contact me, feel free to send me an <a href="mailto:mramjon@gma
 These are some of the technologies, frameworks and tools I have experience with, both professionally and working on personal projects.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,js,ts,css,html,python,dotnet,go,sqlite" />
+    <img src="https://skillicons.dev/icons?i=java,angular,js,ts,css,html,python,dotnet,go,sqlite,spring" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,jenkins,docker,github,git,nodejs,kubernetes,vim" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,jenkins,docker,maven,github,nodejs,kubernetes,vim" />
   </a>
 </p>
 
