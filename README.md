@@ -1,10 +1,11 @@
-<h1 align="center">Hey, I'm Andrew Malcolm</h1>
+<h1 align="center">Hi, I'm Andrew Malcolm 👋</h1>
 
-I'm a software engineer currently working at Fidelity Investments, with an interest in programming maintainable user focused solutions regardless of the domain or language.
-In my repos you'll see a number of the projects I'm working on, from open source through to small personal projects I work on for automation or fun with my friends.
+I'm a Software Engineer at Fidelity Investments, where I build and design applications that support proxy voting and reconciliation.
+I enjoy creating **maintainable, user-focused solutions** and exploring ways to make systems more efficient and reliable.  
 
-If you'd like to contact me, feel free to send me an <a href="mailto:mramjon@gmail.com">email</a> or add me on <a href="https://www.linkedin.com/in/andrewmoneill/">LinkedIn</a>!
+Here on GitHub you'll find a mix of what I’m working on — from open-source contributions to small personal projects for automation, experimentation, or just for fun with friends.  
 
+Please feel free to reach out via [email](mailto:mramjon@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrewmoneill/)!  
 
 ## 💻 Tech Stack:
 These are some of the technologies, frameworks and tools I have experience with, both professionally and working on personal projects.
